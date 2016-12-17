@@ -516,9 +516,10 @@
 	"buffers":
 	[
 		{
+			"file": "/E/Desktop/git-skills/README.md",
 			"settings":
 			{
-				"buffer_size": 0,
+				"buffer_size": 12,
 				"line_ending": "Windows"
 			}
 		}
@@ -632,6 +633,10 @@
 	],
 	"file_history":
 	[
+		"/E/Desktop/git-test/readme.txt",
+		"/E/Desktop/git-test/test.html",
+		"/E/Desktop/git-test/testfile",
+		"/C/Users/kevincaven/.ssh/id_rsa.pub",
 		"/E/xampp/htdocs/kevincaven/wp-content/themes/xmag/style.css",
 		"/E/xampp/htdocs/kevincaven/wp-content/themes/xmag/index.php",
 		"/E/xampp/htdocs/kevincaven/wp-content/themes/xmag/header.php",
@@ -755,11 +760,7 @@
 		"/home/kevincaven/桌面/fvm/makefile",
 		"/home/kevincaven/桌面/fvm/vectors.f90",
 		"/home/kevincaven/code/myWork/fvm/vector.f90",
-		"/home/kevincaven/桌面/fvm/domainmesh.f90",
-		"/home/kevincaven/桌面/fvm/eleinfo.f90",
-		"/home/kevincaven/桌面/backup/fvm_20151209/integfunction.f90",
-		"/home/kevincaven/deng/cip_mulbase_J1test/ciperror.f",
-		"/home/kevincaven/code/myWork/fem_deng/linear1024_umf.f"
+		"/home/kevincaven/桌面/fvm/domainmesh.f90"
 	],
 	"find":
 	{
@@ -927,10 +928,11 @@
 			[
 				{
 					"buffer": 0,
+					"file": "/E/Desktop/git-skills/README.md",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 12,
 						"regions":
 						{
 						},
@@ -943,7 +945,9 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"is_init_dirty_state": false,
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
